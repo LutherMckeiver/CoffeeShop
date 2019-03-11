@@ -18,6 +18,10 @@ The claims we have are name, birth date, address, and email, state and favorite 
 
 The policies that we implemented was that a user must be in Washington in order to buy our products. 
 
+# Deployed
+
+https://netcoffeeshop.azurewebsites.net/
+
 # Contributors
 
 Luther Mckeiver
