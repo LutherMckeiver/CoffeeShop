@@ -19,8 +19,8 @@ namespace CoffeeShop.Models
 
 
         /// <summary>
-        /// creating merchant info
-        /// </summary>
+        /// creating merchant info change
+        /// </summary> 
         /// <returns> TBD </returns>
         public string Run()
         {
